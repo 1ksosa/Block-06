@@ -1,0 +1,25 @@
+ul {
+  color: beige;
+  list-style: circle;
+  background-color: #790e0e;
+  width: 30%;
+  border: 2px solid black;
+}
+h2 {
+  color: beige;
+  background-color: darkred;
+}
+h1 {
+  text-align: center;
+  font-style: oblique;
+  color: darkred;
+}
+h3 {
+  margin-right: 60%;
+  color: beige;
+  background-color: firebrick;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
